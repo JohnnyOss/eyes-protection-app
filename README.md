@@ -1,1 +1,6 @@
-# eyes-protection-app
+# Eye protection app
+## Usage
+
+```
+yarn start
+```
